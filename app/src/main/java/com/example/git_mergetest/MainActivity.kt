@@ -8,7 +8,8 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-
+    var test: String?
+    test= "테스트 변수 에값넣기"
 
 
     }
