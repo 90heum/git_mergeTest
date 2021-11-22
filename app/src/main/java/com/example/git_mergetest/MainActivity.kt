@@ -9,7 +9,11 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
     var test: String?
-    test= "테스트 변수 에값넣기"
+    test= "테스트 변수 에값넣"
+
+    var heumBranch: String?
+    heumBranch="흠브런치에 값넣"
+
 
 
     }
