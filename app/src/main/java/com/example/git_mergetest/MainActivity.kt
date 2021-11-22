@@ -11,8 +11,8 @@ class MainActivity : AppCompatActivity() {
     var test: String?
     test= "테스트 변수 에값넣기"
 
-        var heum: String?
-        heum= "heum 변수 에값넣기"
+        var heum2: String?
+        heum2= "heum 변수 에값넣기"
 
 
     }
